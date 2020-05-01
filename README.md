@@ -1,2 +1,16 @@
 # Stacks
-A game of stacks made in Python.
+A fun game of stacks made in Python.
+
+## Overview
+This is a simple game made using Python and Pyglet, a Python's library. The aim is to align planks on top of each other such that no or minimum plank is cut-off from the sides. This game requires hand-eye coordination at its best to last longer in the game. The higher the stack you built, the more points you earn. The player can select among the easy, medium and, hard levels.
+
+## How to run the code
+Install Python 3.5.  
+Install Pyglet.  
+Open the python file in your favorite IDE.  
+Hit run to run the project.  
+
+## Controls
+Press the space-bar to align stacks on top of each other.  
+Press 'back' to go back.  
+
