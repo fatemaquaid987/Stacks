@@ -6,7 +6,7 @@ This is a simple game made using Python and Pyglet, a Python's library. The aim 
 
 ## How to run the code
 Install Python 3.5.  
-Install Pyglet.  
+Install Pyglet version 1.2.4. 
 Open the python file in your favorite IDE.  
 Hit run to run the project.  
 
